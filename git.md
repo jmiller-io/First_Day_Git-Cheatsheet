@@ -7,3 +7,5 @@ git log - Shows all commits that have been made.
 git diff - compares working directory - Index.
 git diff --cached - compares Index - Repository. 
 second commit
+
+TEst
